@@ -22,7 +22,7 @@
 	"license":"GPL-3.0",
 	"main":
 	[
-		"src/BetterDate.js"
+		"index.js"
 	],
 	"moduleType":
 	[
