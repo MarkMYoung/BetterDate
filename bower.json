@@ -14,7 +14,10 @@
 	"keywords":
 	[
 		"date",
-		"time"
+		"datetime",
+		"time",
+		"time zone",
+		"timezone"
 	],
 	"license":"GPL-3.0",
 	"main":
