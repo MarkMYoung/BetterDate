@@ -1,0 +1,29 @@
+{
+	"name":"betterdate",
+	"version":"0.0.1",
+	"description":"A 'BetterDate' is essentially a 'Date' that is easier and more intuitive to use than the built-in 'Date' class.",
+
+	"author":"Mark M. Young",
+	"dependencies":{},
+	"keywords":
+	[
+		"date",
+		"time"
+	],
+	"license":"GPL-3.0",
+	"main":"src/BetterDate.js",
+	"browser":
+	{
+		"betterdate":"./src/BetterDate.js"
+	},
+	"homepage":"https://github.com/MarkMYoung/BetterDate",
+	"bugs":
+	{
+		"url":"https://github.com/MarkMYoung/BetterDate/issues"
+	},
+	"repository":
+	{
+		"type":"git",
+		"url":"https://github.com/MarkMYoung/BetterDate.git"
+	}
+}
