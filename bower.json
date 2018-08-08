@@ -1,0 +1,28 @@
+{
+	"name":"betterdate",
+	"description":"A 'BetterDate' is essentially a 'Date' that is easier and more intuitive to use than the built-in 'Date' class.",
+
+	"authors":["Mark M. Young"],
+	"dependencies":{},
+	"ignore":
+	[
+		"**/.*",
+		"bower_components",
+		"node_modules",
+		"_notes"
+	],
+	"keywords":
+	[
+		"date",
+		"time"
+	],
+	"license":"GPL-3.0",
+	"main":
+	[
+		"src/BetterDate.js"
+	],
+	"moduleType":
+	[
+		"globals"
+	]
+}
