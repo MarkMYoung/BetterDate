@@ -1,6 +1,6 @@
 {
 	"name":"betterdate",
-	"version":"0.0.3",
+	"version":"0.0.4",
 	"description":"A 'BetterDate' is essentially a 'Date' that is easier and more intuitive to use than the built-in 'Date' class.",
 
 	"author":"Mark M. Young",
