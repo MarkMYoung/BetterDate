@@ -1,1 +1,1 @@
-module.exports.BetterDate = require('./src/BetterDate');
+module.exports = require('./src/BetterDate');
